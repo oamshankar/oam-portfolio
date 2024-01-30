@@ -2,7 +2,6 @@ import React from "react";
 import "./work.css";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
-import { SplitText } from "gsap-trial/SplitText";
 import SplitType from "split-type";
 import Project from "../project/Project";
 import Project2 from "../project/Project2";

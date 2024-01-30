@@ -2,11 +2,6 @@ import React from "react";
 import "./body.css";
 import Oam from "../../images/oam_portfolio.png";
 export default function Body() {
-  const [time, setTime] = React.useState(new Date());
-  var options = { hour: "2-digit", minute: "2-digit", hour12: true };
-  React.useEffect(() => {
-    setInterval(() => setTime(new Date()), 1000);
-  }, []);
   return (
     <div id="body" className="body-main">
       <div className="main-body">
