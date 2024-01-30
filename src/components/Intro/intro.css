@@ -169,14 +169,9 @@
         .grid-span-4 {
             grid-column: span 2;
         }
-    
-    
-        .left-body p {
-            position: absolute;
-            top: 0;
-            right: 0;
-            left: auto;
-            width: 50%;
+
+        .left-body {
+            display: none;
         }
 
         .right-body{
