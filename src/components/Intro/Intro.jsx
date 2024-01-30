@@ -23,8 +23,7 @@ export default function Intro() {
       <div className="intro-body">
         <div className="left-body grid-span-2 small-text">
           <p>
-            Having started as a graphic designer and transitioning into a
-            creative developer gives me a unique perspective and understanding
+            Having started as a creative developer gives me a unique perspective and understanding
             in merging both visual aesthetics and modern technology.
           </p>
         </div>
